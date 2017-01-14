@@ -1,2 +1,2 @@
 # discordbot
-bot for discord in javascript
+bot for discord in javascript using APIs found
